@@ -12,3 +12,6 @@ https://howtodoinjava.com/spring-boot2/pagination-sorting-example/
 
 **Error Handling with Spring Boot**
 https://www.toptal.com/java/spring-boot-rest-api-error-handling
+
+** Java Streams **
+https://stackify.com/streams-guide-java-8/
