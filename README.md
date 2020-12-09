@@ -15,3 +15,7 @@ https://www.toptal.com/java/spring-boot-rest-api-error-handling
 
 **Java Streams**
 https://stackify.com/streams-guide-java-8/
+
+
+**How to generate javadoc in the maven Project**
+https://kkjavatutorials.com/how-to-generate-javadoc-in-the-maven-project/
